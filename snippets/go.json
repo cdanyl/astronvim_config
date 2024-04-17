@@ -1,0 +1,6 @@
+{
+  "con": {
+    "body": "fmt.Printf(\">>>>>>> [dan] [$TM_FILENAME] [$CLIPBOARD] <<<<<<< %+v\\n\", $CLIPBOARD)",
+    "prefix": "con"
+  }
+}
